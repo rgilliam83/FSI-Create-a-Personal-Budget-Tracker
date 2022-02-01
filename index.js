@@ -2,4 +2,9 @@ let weeklyExpenses = 0
 let monthlyExpenses = 0
 let annualExpenses = 0
 
-// Your Code Here
+
+let weeklyExpenses = 500;
+let monthlyExpenses = 2000;
+let annualExpenses = 24000;
+
+window.prompt(weeklyExpensesQuestions[0])
